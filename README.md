@@ -9,7 +9,7 @@ This project demonstrates how to perform zero-shot object detection using the OW
 Clone the Repository:
 
 ```bash
-git clone https://github.com/SatyajitGarud/owlvit-object-detection.git
+git clone https://github.com/SatyajitGarud/Zero-Shot-Object-Detection-with-OWL-ViT.git
 cd owlvit-object-detection
 ```
 Install Required Libraries:
