@@ -10,7 +10,7 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/SatyajitGarud/Zero-Shot-Object-Detection-with-OWL-ViT.git
-cd owlvit-object-detection
+cd Zero-Shot-Object-Detection-with-OWL-ViT
 ```
 Install Required Libraries:
 ```bash
